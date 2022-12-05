@@ -8,6 +8,10 @@ describe("day ", () => {
   });
 
   it("1", () => {
-    console.log(workData);
+    console.log(workData.length);
+  });
+
+  it("2", () => {
+    console.log(workData.length);
   });
 });
