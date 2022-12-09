@@ -25,7 +25,7 @@ const createDirectory = (
   parent?: ElfDirectory
 ): ElfDirectory => ({ name, parent, size: 0, directories: [], files: [] });
 
-describe("day ", () => {
+describe("day 7", () => {
   let terminalOutput: string[];
   let rootDir: ElfDirectory;
   const totalSpace = 70000000;

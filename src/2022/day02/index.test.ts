@@ -70,7 +70,7 @@ const moveFromResult = (move: Move, result: Result): Move => {
   return loosingMove[move];
 };
 
-describe("day 1", () => {
+describe("day 2", () => {
   let matches1: Match[];
   let matches2: Match[];
 

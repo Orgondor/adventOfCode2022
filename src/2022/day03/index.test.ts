@@ -1,7 +1,7 @@
 import { sum } from "../util";
 import { data, testData } from "./inputData";
 
-describe("day ", () => {
+describe("day 3", () => {
   const ruckSacks1: string[][] = [];
   let duplicateItems: string[];
   const aValue = Buffer.from("a").readUInt8();

@@ -1,6 +1,6 @@
 import { data, testData } from "./inputData";
 
-describe("day ", () => {
+describe("day 5", () => {
   let stacks1: string[][];
   let stacks2: string[][];
   let moves: number[][];

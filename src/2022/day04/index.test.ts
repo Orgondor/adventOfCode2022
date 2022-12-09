@@ -20,7 +20,7 @@ const anyOverlap = (a: Section, b: Section): boolean => {
   );
 };
 
-describe("day ", () => {
+describe("day 4", () => {
   let workData: Section[][];
 
   beforeAll(() => {

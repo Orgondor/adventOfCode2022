@@ -83,7 +83,7 @@ const calculateScenicScore = (
   return tree.scenicScore;
 };
 
-describe("day ", () => {
+describe("day 8", () => {
   let trees: Tree[][];
   let maxScore = 0;
 

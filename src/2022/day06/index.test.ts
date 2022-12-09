@@ -21,7 +21,7 @@ const idAfterDistinctLetters = (data: string, distinct: number) => {
   return startIndex;
 };
 
-describe("day ", () => {
+describe("day 6", () => {
   it("1", () => {
     console.log(idAfterDistinctLetters(data, 4));
   });
